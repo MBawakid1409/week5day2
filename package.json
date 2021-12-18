@@ -1,0 +1,15 @@
+{
+  "name": "week5day1",
+  "version": "1.0.0",
+  "description": "## Javascript Coding Bootcamp \"Tuwaiq-1000 online\"",
+  "main": "main.js",
+  "scripts": {
+    "dev" : "nodemon app.js",
+    "Mohammad" : "pwd"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
